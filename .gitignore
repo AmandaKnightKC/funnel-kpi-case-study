@@ -1,0 +1,21 @@
+# General
+*.log
+*.tmp
+data/
+
+# files 
+*.pdf
+*.docx
+
+# IDE/editor config 
+.vscode/
+*.code-workspace
+
+# ⚙️ Jupyter extensions
+.ipynb_checkpoints/
+
+# 🗃 Backup/OS metadata
+*.bak
+Thumbs.db
+desktop.ini
+*.swp
