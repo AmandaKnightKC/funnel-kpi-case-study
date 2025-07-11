@@ -1,10 +1,9 @@
 # Systems Analyst Case Study – Spring Venture Group (Fictional Data)
 
-<p align="center">
-  <img src="figures/project_thumbnail.png" width="600" alt="SVG Analyst Case Study Thumbnail"/>
-</p>
+![SVG Analyst Case Study Thumbnail](figures/project_thumbnail.png)
 This project was completed as part of an interview process for a **Business Analytics Systems Analyst** role at Spring Venture Group. The dataset simulated real-world insurance sales activity, and the goal was to analyze agent performance, sales pipeline velocity, and quota alignment.
 
+---
 > ⚠️ **Note:** All data is fictional and provided for interview purposes only. No proprietary or real client data is included.
 
 ---
