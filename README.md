@@ -1,10 +1,10 @@
-# Systems Analyst Case Study – Spring Venture Group (Fictional Data)
+# Funnel KPI Case Study (Fictional Data)
 
-![SVG Analyst Case Study Thumbnail](figures/project_thumbnail.png)
-This project was completed as part of an interview process for a **Business Analytics Systems Analyst** role at Spring Venture Group. The dataset simulated real-world insurance sales activity, and the goal was to analyze agent performance, sales pipeline velocity, and quota alignment.
+![Case Study Thumbnail](figures/project_thumbnail.png)
+This project's dataset is simulated real-world insurance sales activity, and the goal was to analyze agent performance, sales pipeline velocity, and quota alignment.
 
 ---
-> ⚠️ **Note:** All data is fictional and provided for interview purposes only. No proprietary or real client data is included.
+> ⚠️ **Note:** All data is fictional. No proprietary or real client data is included.
 
 ---
 
@@ -77,10 +77,10 @@ Key metrics and KPIs included:
 ## 📁 Repo Structure
 
 ```md
-SVG-Analyst-Case-Study/
+Funnel-KPI-Case-Study/
 ├── README.md
 ├── LICENSE
-├── SVG_BA_Systems_Analyst.ipynb # Main analysis notebook
+├── Medicare_Funnel_Analysis.ipynb # Main analysis notebook
 ├── docs
 │   └── data_structure.md # Summary of dataset schema
 ├── environment.yml
