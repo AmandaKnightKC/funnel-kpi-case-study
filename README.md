@@ -43,7 +43,7 @@ The analysis focused on extracting actionable insights from five interrelated da
 
 - **Agent profiles**
 - **Product quotas by ramp stage**
-- **Lead contact logs**
+- **Leads and lead contact logs**
 - **Quotes**
 - **Applications**
 
